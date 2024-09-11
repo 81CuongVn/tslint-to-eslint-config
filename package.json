@@ -22,7 +22,7 @@
         "typescript": "5.6.2"
     },
     "devDependencies": {
-        "@swc/core": "1.7.24",
+        "@swc/core": "1.7.25",
         "@swc/jest": "0.2.36",
         "@types/eslint-config-prettier": "6.11.3",
         "@types/glob": "8.1.0",
